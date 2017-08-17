@@ -1,6 +1,6 @@
-MIT License
+The MIT License (MIT)
 
-Copyright (c) 2017 jonathanlight
+Copyright (c) JonathanLight 2017
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -8,6 +8,18 @@ in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
+
+-Free for use in any UE4 project-
+Anyone is free to copy, modify, publish, use, or compile this software, 
+either in source code form or as a compiled binary, for use in any 
+Unreal Engine 4 game, simulation, arch-viz, or other related UE4 projects, 
+both commercial or non-commercial. Attribution is not required.
+
+-Not for Resale-
+This software can not be resold on the Unreal Engine 4 Marketplace, 
+or any other website as "Content" for UE4 in any form whatsoever. 
+You can not re-sell this software as a standalone product in whole, 
+part, or modified form.
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
